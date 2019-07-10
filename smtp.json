@@ -1,0 +1,3 @@
+http://192.168.1.44:3010/site/settings/view
+
+{"status":1,"response":{"_id":"5d135fdf66256f12f2b11084","alias":"smtp","settings":{"smtpHost":"smtp.gmail.com","smtpPort":"4000","smtpUserName":"casperon@gmail.com","smtpPassword":"Handy@321","mode":"Development"},"createdAt":"2016-07-12T10:09:47.425Z","updatedAt":"2018-07-02T13:55:42.065Z"}}

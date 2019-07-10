@@ -1,0 +1,4 @@
+http://192.168.1.44:3010/site/admin/login
+
+
+{"status":1,"response":{"_id":"5d19acb366256f12f2c52108","userName":"admin","status":1,"email":"admin@casperon.in","password":"$2a$08$vPE.ejLxgJ5HCsez5dtmke4ykG8kaBHpEwKgV6Q8/J2IRsOyeC27m","name":"admin","role":"Super Admin","updatedAt":"2019-07-01T07:01:10.606Z","createdAt":"2019-06-27T12:36:44.246Z","activity":{"lastLogin":"Wed Jul 10 2019 18:06:18 GMT+0530 (India Standard Time)","lastLogout":"Mon Jul 01 2019 12:24:59 GMT+0530 (India Standard Time)"},"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGNhc3Blcm9uLmluIiwiaWF0IjoxNTYyNzYyMjAxLCJleHAiOjE1NjI3NjMxMDF9.w0czZjC8Soq5v1UjBtswkzoEEb_Ed_2Go6ZirH4eG5s"}}

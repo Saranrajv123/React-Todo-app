@@ -1,0 +1,25 @@
+http://192.168.1.44:3010/site/settings/view
+
+{
+  "status": 1,
+  "response": {
+    "_id": "5d134e0266256f12f2b04942",
+    "alias": "general",
+    "settings": {
+      "siteTitle": "FricaTv",
+      "siteUrl": "heee",
+      "siteAddress": "chenn",
+      "location": "tfttt",
+      "emailAddress": "Jiggy@presentedby.com",
+      "timeZone": "Asia/Calcutta",
+      "timeFormat": "hh:mm a",
+      "dateFormat": "DD/MM/YYYY",
+      "siteDescription": "fdsfdsgvdgdfgdfgdf",
+      "logo": "",
+      "lightLogo": null,
+      "favicon": null
+    },
+    "createdAt": "2018-11-27T09:54:53.477Z",
+    "updatedAt": "2018-11-27T10:13:59.612Z"
+  }
+}
